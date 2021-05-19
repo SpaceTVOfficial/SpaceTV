@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+.Title{
+    color: white;
+    height: 50px;
+    width: 80px;
+    left: 50%;
+    
+}
+hr{
+    color: rgb(54, 54, 54);
+    background-color: rgb(54, 54, 54);
+}
+
+a{
+    color: rgb(167, 167, 167);
+}
+p{
+    color: rgb(226, 226, 226);
+}
+audio{
+    color: black;
+    background-color: black;
+}
